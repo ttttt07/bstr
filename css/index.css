@@ -1,0 +1,7 @@
+@font-face{
+    src: url("./fonts/Lust Slim.ttf");
+    font-family: "Lust-Slim";
+}
+.lastslim ,h1,h3,h2,h4{font-family: 'Last-Slim';}
+h1{font-size: 50px;}
+p{margin: 0px;}
